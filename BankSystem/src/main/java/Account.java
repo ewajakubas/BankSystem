@@ -3,6 +3,8 @@ import java.math.BigDecimal;
 
 public class Account {
     // pierwsza zmiana
+    //druga zmiana
+    //trzecia zmiana
     private final String firstName;
     private final String lastName;
     private BigDecimal balance;
