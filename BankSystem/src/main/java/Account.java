@@ -2,7 +2,7 @@
 import java.math.BigDecimal;
 
 public class Account {
-    // czwarta zm
+    // blblblb
     private final String firstName;
     private final String lastName;
     private BigDecimal balance;
