@@ -2,7 +2,8 @@
 import java.math.BigDecimal;
 
 public class Account {
-    // pierwsza zmiana
+    // blblblb
+    // mmmmmmmmmmm
     private final String firstName;
     private final String lastName;
     private BigDecimal balance;
@@ -12,12 +13,15 @@ public class Account {
  
 
     public Account(String firstName, String lastName, String login, String password, String iban){
+        // piata zmiana
         this.firstName = firstName;
         this.lastName = lastName;
         this.login = login;
         this.password = password;
         this.iban = iban;
         this.balance = new BigDecimal(0);
+
+
     }
  
     public String getFirstName(){
