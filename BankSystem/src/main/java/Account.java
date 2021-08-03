@@ -8,20 +8,14 @@ public class Account {
     private String password;
     private final String login;
     private final String iban;
- //mmmmmm
-
-    // bbbbbb
 
     public Account(String firstName, String lastName, String login, String password, String iban){
-        // piata zmiana
         this.firstName = firstName;
         this.lastName = lastName;
         this.login = login;
         this.password = password;
         this.iban = iban;
         this.balance = new BigDecimal(0);
-//dfdfdfd
-
     }
  
     public String getFirstName(){

@@ -9,7 +9,6 @@ public class Bank {
 
     private List<Account> bankAccounts;
     private Scanner sc;
-// pierwszy kom
     private final HashMap<String, Integer> countries = new HashMap<String, Integer>() {
         {
             put("A", 10);
