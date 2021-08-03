@@ -2,15 +2,13 @@
 import java.math.BigDecimal;
 
 public class Account {
-    // blblblb
-    // mmmmmmmmmmm
     private final String firstName;
     private final String lastName;
     private BigDecimal balance;
     private String password;
     private final String login;
     private final String iban;
- 
+ //mmmmmm
 
     public Account(String firstName, String lastName, String login, String password, String iban){
         // piata zmiana
@@ -20,7 +18,7 @@ public class Account {
         this.password = password;
         this.iban = iban;
         this.balance = new BigDecimal(0);
-
+//dfdfdfd
 
     }
  

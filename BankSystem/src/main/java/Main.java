@@ -3,7 +3,7 @@ import java.math.BigDecimal;
 import java.util.Scanner;
 
 public class Main {
-
+// bbbbbb
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);
