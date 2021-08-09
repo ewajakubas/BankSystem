@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
  // dodaje jekis kod
     public static void main(String[] args) throws Exception {
+// dodaje drugi cod
 
         Scanner sc = new Scanner(System.in);
         Bank bank = new Bank();
